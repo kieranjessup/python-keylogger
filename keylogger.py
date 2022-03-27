@@ -1,3 +1,12 @@
+#  __    ____  __   
+# |  | _/_   |/  |_ 
+# |  |/ /|   \   __\
+# |    < |   ||  |  
+# |__|_ \|___||__|  
+#      \/           
+#
+## Python Keylogger 1.2
+
 import pynput
 from pynput.keyboard import Key, Listener
 
